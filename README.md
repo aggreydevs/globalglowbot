@@ -14,7 +14,7 @@ Hit reset to try again.
 
 Good Luck!
 
-- [Play the Game](https://github.com/aggreydevs/globalglowbot/index.html)
+- [Play the Game](https://aggreydevs.github.io/globalglowbot/)
 
 
 
